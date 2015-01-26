@@ -1,4 +1,3 @@
-//This is the second line causing issue in the <master> branch
 #include<stdio.h> 
 main()
 {    
