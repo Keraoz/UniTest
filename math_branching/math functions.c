@@ -1,6 +1,9 @@
 #include<stdio.h> 
 main()
 {    
-   printf("Hello World\n");
-   printf("Hello git\n");
+int a = 5;
+int b = 6;
+int c;
+
+int c = a % b;
 }
